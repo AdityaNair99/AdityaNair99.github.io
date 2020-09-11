@@ -6,36 +6,37 @@ permalink: /skills
 
 # Coding Languages:
 
-##Proficient in
-- Java
+## Proficient in
+- **Java**
     - Roche Internship
     - CS 61B
-- Python
+- **Python**
     - CS 285
     - CS 61A
     - CS 170
     - EECS 106A
     - CS 188
     - CS 189
-- Octave
-- SQL
+- **Octave**
+- **SQL**
     - Roche Internship
     - CS 61A
     - CS 186
-Working Experience in:
-- Matlab
-- PHP
-- Javascript
-- Arduino C
-- Typescript
-- Node JS
+
+## Working Experience in:
+- **Matlab**
+- **PHP**
+- **Javascript**
+- **Arduino C**
+- **Typescript**
+- **Node JS**
     - Bridgewater Internship
     - Roche Internship
-- C
+- **C**
     - CS 61C
-- Ruby
+- **Ruby**
     - Building this site!
-- RISC-V
+- **RISC-V**
     - CS 61C
-- C++
+- **C++**
     - CS 194
