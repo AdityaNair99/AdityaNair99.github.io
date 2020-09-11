@@ -4,6 +4,8 @@ title: Experience
 permalink: /experience
 ---
 
+# Experience
+
 #Bridgewater Associates/ Software Engineering Intern-Workshop Participant
 ##JULY 2020, VIRTUAL
 ##*Originally slated to intern as a Software Engineer but offer was rescinded due to COVID-19.

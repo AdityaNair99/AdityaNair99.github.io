@@ -3,6 +3,8 @@ layout: page
 title: Education
 permalink: /education
 ---
+# Education
+
 # UC Berkeley
 ## Electrical Engineering and Computer Science BS (3.55 GPA)
 ### AUG 2017 - MAY 2021 (Expected Graduation Date), BERKELEY, CA

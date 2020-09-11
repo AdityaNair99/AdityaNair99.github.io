@@ -3,6 +3,7 @@ layout: page
 title: Skills
 permalink: /skills
 ---
+# Skills 
 
 # Coding Languages:
 
