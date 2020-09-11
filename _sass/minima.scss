@@ -10,12 +10,9 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-// $text-color:       #111 !default;
-$text-color:       #ADCEFF !default;
-// $background-color: #fdfdfd !default;
-$background-color: #FFDEAD !default;
-// $brand-color:      #2a7ae2 !default;
-$brand-color:      #ADFFB5 !default;
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -45,6 +42,8 @@ $on-laptop:        800px !default;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
+
+
 
 // Import partials.
 @import
