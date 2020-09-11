@@ -6,9 +6,9 @@ permalink: /experience
 
 # Experience
 
-#Bridgewater Associates/ Software Engineering Intern-Workshop Participant
-##JULY 2020, VIRTUAL
-##*Originally slated to intern as a Software Engineer but offer was rescinded due to COVID-19.
+# Bridgewater Associates/ Software Engineering Intern-Workshop Participant
+## JULY 2020, VIRTUAL
+## *Originally slated to intern as a Software Engineer but offer was rescinded due to COVID-19.
 - Completed a trade execution simulation project that involved an end to end build out of
 a simplified order execution engine and statistical trade execution algorithms, using
 Node JS, Python, and SQL
