@@ -3,13 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-layout: page
+layout: home
 ---
-<span style="font-family:Calibri; font-size:4em;">
-[Skills](/skills)
-
-<span style="font-family:Calibri; font-size:4em;">
-[Education](/education)
-
-<span style="font-family:Calibri; font-size:4em;">
-[Experience](/experience)
