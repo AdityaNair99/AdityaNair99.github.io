@@ -3,7 +3,9 @@
  */
 
  //special
- @mixin btn-border-drawing($color: #111, $hover: #464033, $width: 2px, $vertical: top, $horizontal: left, $duration: 0.25s) {
+ //=== Drawing effect
+
+ @mixin btn-border-drawing($color: #ccc, $hover: black, $width: 2px, $vertical: top, $horizontal: left, $duration: 0.25s) {
    box-shadow: inset 0 0 0 $width $color;
    color: $color;
    transition: color $duration $duration/3;
@@ -54,7 +56,7 @@
  }
 
  .draw-border {
-   @include btn-border-drawing(#111, #464033, 4px, bottom, right);
+   @include btn-border-drawing(#111, #2a7ae2, 4px, bottom, right);
  }
 
  //=== Button styling, semi-ignore
@@ -63,13 +65,14 @@
    border: none;
    cursor: pointer;
    line-height: 1.5;
-   font: 700 1.2rem 'Roboto Slab', sans-serif;
+   font: 700 1.2rem "Calibri";
    padding: 1em 2em;
    letter-spacing: 0.05rem;
 
    &:focus { outline: 2px dotted #55d7dc; }
  }
 
+//close special
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
