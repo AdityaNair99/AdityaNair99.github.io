@@ -3,8 +3,18 @@
 
 @import "{{ site.theme }}";
 
+.home
+{
+    font-family:    Calibri;
+    font-size:      1em;
+}
+.title{
+    font-family:    Calibri;
+    font-size:      2em;
+}
 
-a.button6{
+a.button6
+{
  display:inline-block;
  padding:0.7em 1.4em;
  margin:0 0.3em 0.3em 0;
@@ -20,6 +30,7 @@ a.button6{
  text-align:center;
  position:relative;
 }
-a.button6:active{
+a.button6:active
+{
  top:0.1em;
 }
