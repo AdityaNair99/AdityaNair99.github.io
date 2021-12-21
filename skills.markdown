@@ -3,13 +3,14 @@ layout: page
 title: Skills
 permalink: /skills
 ---
-# Skills 
+# Skills
 
 # Coding Languages:
 
 ## Proficient in
 - **Java**
-    - Roche Internship
+    - Veeva Systems
+    - Roche
     - CS 61B
 - **Python**
     - CS 285
@@ -20,7 +21,8 @@ permalink: /skills
     - CS 189
 - **Octave**
 - **SQL**
-    - Roche Internship
+    - Veeva Systems
+    - Roche
     - CS 61A
     - CS 186
 
@@ -31,12 +33,13 @@ permalink: /skills
 - **Arduino C**
 - **Typescript**
 - **Node JS**
-    - Bridgewater Internship
-    - Roche Internship
+    - Bridgewater
+    - Roche
+    - Veeva Systems
 - **C**
     - CS 61C
 - **Ruby**
-    - Building this site!
+    - Building this site
 - **RISC-V**
     - CS 61C
 - **C++**

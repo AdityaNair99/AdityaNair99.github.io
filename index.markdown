@@ -6,4 +6,6 @@ layout: home
 
 [Education](/education)
 
+[Projects](/projects)
+
 [Experience](/experience)
