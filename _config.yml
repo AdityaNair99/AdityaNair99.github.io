@@ -21,16 +21,18 @@
 title: Aditya Nair
 email: adityanair@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Aditya Nair, Associate Software Engineer at Veeva Systems
+  Aditya Nair, Incoming Software Engineer at Google
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  AdityaNair99
+linkedin_username:  AdityaNair99
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: dark

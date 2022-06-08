@@ -7,11 +7,11 @@ permalink: /experience
 # Experience
 
 ## **Veeva Systems/ Associate Software Engineer**
-## MAR 2021 - PRESENT | PLEASANTON, CA
-- Working as part of the CDB team under the Clinical Database Management System org
+## MAR 2021 - JUN 2022 | PLEASANTON, CA
+- Working as part of the CDB team under the Clinical Database Management System organization
 - Helped to develop a tool that allows users to first ingest clinical data from multiple
 sources into a single repository and subsequently query, analyze and export this data
-- Developed internal tools that served as POCs and infrastructure for customer facing
+- Developed internal tools and then used those to create infrastructure for customer facing
 features
 - Mainly working with the Spring Framework
 
