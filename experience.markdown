@@ -6,14 +6,30 @@ permalink: /experience
 
 # Experience
 
+## **Google/ Software Engineer**
+## JUN 2022 - PRESENT | SUNNYVALE, CA
+- Working as a member of the Discovery Affinity Server team in the 
+Identity & Connections Organization, supporting development of AI/ML 
+recommendation services, pipelines, and components handling a throughput 
+of millions of queries per second
+- Aided in the design of and helped implement company wide, cross-org 
+changes to bring Google services into compliance with DMA and EU Sovereignty
+- Contributed to anti-spam and safety features for Gmail 
+- Developed an MVP in two weeks using adapter tuning and style transfer on 
+internal generative models to generate new content for Google products
+- Developing in C++, Python, Java, a variety of scripting languages
+
+
 ## **Veeva Systems/ Associate Software Engineer**
 ## MAR 2021 - JUN 2022 | PLEASANTON, CA
-- Working as part of the CDB team under the Clinical Database Management System organization
-- Helped to develop a tool that allows users to first ingest clinical data from multiple
-sources into a single repository and subsequently query, analyze and export this data
-- Developed internal tools and then used those to create infrastructure for customer facing
-features
-- Mainly working with the Spring Framework
+- Worked on the Workbench team in the Clinical Data Management Suite Organization. 
+- The Workbench product is a data cleaning and reporting solution that allows users to 
+create data listings and query execution data
+- Created several proof of concepts using Spring Framework to support large scale 
+task/email scheduling and cross-environment data transfer. Each of these eventually became 
+production-ready features in the core product
+- Introduced an asynchronous trigger system using ActiveMQ and JMS
+
 
 ## **Bridgewater Associates/ Software Engineering Intern-Workshop Participant**
 ## JUL 2020 | VIRTUAL
